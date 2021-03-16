@@ -10,14 +10,7 @@ Besides cleaning and sub-setting the data, the tokenization technique of N-Grams
 
 The final project was concluded with one Shiny application and a Pitch using R-Presentation.
 
-### Coursera Data Science Specialization Capstone Project
-========================================================
-author: Joseph Boateng
-date: `r format(Sys.Date())`
-autosize: true
-
-### The Project
-========================================================
+### The Project 
 
 This project involves Natural Language Processing.  The critical task is to 
 take a user's input phrase (group of words) and to output a predicted next word.  
@@ -29,7 +22,6 @@ take a user's input phrase (group of words) and to output a predicted next word.
 - This presentation hosted at R pubs
 
 ### Next Word Prediction Model
-========================================================
 
 The next word prediction model uses the principles of "tidy data" applied to text mining in R. Key model steps: 
 
@@ -43,8 +35,7 @@ The next word prediction model uses the principles of "tidy data" applied to tex
 
 Benefits: easy to read code; uses "pipes"; fast processing of training data; able to sample up to 25% of original corpus; relatively small output repos
 
-### Next Word Prediction App
-========================================================
+### Next Word Prediction App 
 
 The next word prediction app provides a simple user interface to the next word prediction model.  
 
@@ -63,21 +54,20 @@ The next word prediction app provides a simple user interface to the next word p
 [Shiny App Link](https://mblackmo.shinyapps.io/ngram_match/)  
 
 ### Documentation and Source Code
-========================================================
 
-Tidy Data  
+#### Tidy Data  
 "http://vita.had.co.nz/papers/tidy-data.html"
 
-Text Mining with R: A Tidy Approach  
+#### Text Mining with R: A Tidy Approach  
 "http://tidytextmining.com/index.html"
 
-Shiny App    
+#### Shiny App    
 "https://mblackmo.shinyapps.io/ngram_match/"
 
-Shiny App Source Code repository on Github    
+#### Shiny App Source Code repository on Github    
 "https://github.com/mark-blackmore/JHU-Data-Science-Capstone/tree/master/ngram_match"
 
-Data Specialization Capstone repository on Github    
+#### Data Specialization Capstone repository on Github    
 "https://github.com/mark-blackmore/JHU-Data-Science-Capstone"
 
 
