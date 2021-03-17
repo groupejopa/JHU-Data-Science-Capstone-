@@ -51,18 +51,15 @@ The next word prediction app provides a simple user interface to the next word p
 1. Fast response  
 2. Method allows for large training sets leading to better next word predictions
 
-[Shiny App Link](https://mblackmo.shinyapps.io/ngram_match/)  
+[Shiny App Link]( https://groupejopa.shinyapps.io/ngram_match/)  
 
 ### Documentation and Source Code
 
-#### Tidy Data  
-"http://vita.had.co.nz/papers/tidy-data.html"
-
-#### Text Mining with R: A Tidy Approach  
-"http://tidytextmining.com/index.html"
-
 #### Shiny App    
-"https://mblackmo.shinyapps.io/ngram_match/"
+" https://groupejopa.shinyapps.io/ngram_match/"
+
+Slide Deck
+"https://rpubs.com/groupejopa/740513"
 
 #### Shiny App Source Code repository on Github    
 "https://github.com/groupejopa/JHU-Data-Science-Capstone-/tree/master/ngram_match"
