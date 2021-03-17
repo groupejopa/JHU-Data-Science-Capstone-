@@ -1,7 +1,7 @@
 Coursera Data Science Specialization Capstone Project
 ========================================================
 author: Joseph Boateng
-date: `r format(Sys.Date())`
+date: 2021-03-17
 autosize: true
 
 The Project
