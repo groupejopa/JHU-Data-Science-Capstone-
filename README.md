@@ -65,7 +65,7 @@ The next word prediction app provides a simple user interface to the next word p
 "https://mblackmo.shinyapps.io/ngram_match/"
 
 #### Shiny App Source Code repository on Github    
-"https://github.com/mark-blackmore/JHU-Data-Science-Capstone/tree/master/ngram_match"
+"https://github.com/groupejopa/JHU-Data-Science-Capstone-/tree/master/ngram_match"
 
 #### Data Specialization Capstone repository on Github    
 "https://github.com/groupejopa/JHU-Data-Science-Capstone-"
